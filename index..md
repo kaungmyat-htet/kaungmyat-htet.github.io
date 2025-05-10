@@ -4,6 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+toc_label: "Contents"
+toc_icon: "cog"
 ---
 
 I am a graduate student with the passion to develop innovative solution that could help human in their daily life.
@@ -27,7 +29,7 @@ Jan 2022 – Apr 2025
 
 ### AI Researcher  
 **Baksters Co.** · _Internship_  
-Jan 2022 – Apr 2025 · 2 years
+June 2023 – Apr 2025 · 2 years
 
 - Conducted research and development on AI-driven systems, with a focus on real-world applications  
 - Participated in team projects and contributed to machine learning model evaluations  
@@ -36,3 +38,22 @@ Jan 2022 – Apr 2025 · 2 years
   - ☕ Coffee  
   - 🍵 Tea
 
+### Junior Research Assistant  
+**Intelligent System Research Lab (ISL)**
+May 2022 – June 2023 · 2 years
+
+- Conducted research and development on AI-driven systems, with a focus on real-world applications  
+- Participated in team projects and contributed to machine learning model evaluations  
+- Prepared technical documentation and presented findings in internal knowledge sharing sessions  
+- Worked on projects involving:  
+  - ☕ Coffee  
+  - 🍵 Tea
+
+## 💻 Projects
+
+### **Air Quality Prediction using CNN + LSTM**  [GitHub Repo <i class="fas fa-link"></i>](https://github.com/kaungmyat-htet/air-quality-prediction)
+_Oct 2024_
+- Collected hourly air quality data of Bangkok and Chaing Mai from the OpenWeather API’s historical pollution data over a period of 4 years
+- Built a CNN + LSTM hybrid model to predict the air quality of next hour from 12 hours of historical data
+- Achieved an F1 score of 82% on the test dataset
+- Leveraged knowledge in Tensorflow, feature engineering, data preprocessing
