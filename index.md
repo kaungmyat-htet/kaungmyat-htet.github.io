@@ -6,6 +6,7 @@ layout: single
 author_profile: true
 toc: true
 toc_label: "Contents"
+toc_sticky: true
 toc_icon: "file-lines"
 ---
 
@@ -47,7 +48,7 @@ May 2022 – June 2023 · 1 year 2 months
 
 ## 💻 Projects
 
-### [Air Quality Prediction using CNN + LSTM](https://github.com/kaungmyat-htet/air-quality-prediction)
+### [Air Quality Prediction](https://github.com/kaungmyat-htet/air-quality-prediction)
 _Oct 2024_
 - Collected hourly air quality data of Bangkok and Chaing Mai from the OpenWeather API’s historical pollution data over a period of 4 years
 - Built a CNN + LSTM hybrid model to predict the air quality of next hour from 12 hours of historical data
