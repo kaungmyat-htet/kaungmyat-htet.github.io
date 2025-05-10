@@ -1,8 +1,34 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a graduate student with the passion to develop innovative solution that could help human in their daily life.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm interested in building AI solutions using machine learning (ML), deep learning (DL) and large language models (LLMs).
+
+I'm also aspire to do research in Natural Language Processing (NLP), Information Retrieval, Data Mining and Recommendation Systems. I will be going to study Master degree soon.
+
+I'm open to contribute to open source projects during my free time.
+
+## 🎓 Education
+
+**Bachelor of Science (B.Sc) in Computer Science**  
+_Assumption University_  
+Jan 2022 – Apr 2025  
+**Major:** Informatics and Data Science
+
+
+## 💼 Professional Experience
+
+### AI Researcher  
+**Baksters Co.** · _Internship_  
+📍 Jan 2022 – Apr 2025 · 2 years
+
+- Conducted research and development on AI-driven systems, with a focus on real-world applications  
+- Participated in team projects and contributed to machine learning model evaluations  
+- Prepared technical documentation and presented findings in internal knowledge sharing sessions  
+- Worked on projects involving:  
+  - ☕ Coffee  
+  - 🍵 Tea
+
