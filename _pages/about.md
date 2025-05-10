@@ -23,7 +23,7 @@ Jan 2022 – Apr 2025
 
 ### AI Researcher  
 **Baksters Co.** · _Internship_  
-📍 Jan 2022 – Apr 2025 · 2 years
+Jan 2022 – Apr 2025 · 2 years
 
 - Conducted research and development on AI-driven systems, with a focus on real-world applications  
 - Participated in team projects and contributed to machine learning model evaluations  
