@@ -10,8 +10,6 @@ toc_sticky: true
 toc_icon: "file-lines"
 ---
 
-# About Me
-
 Hello! This is Kaung Myat Htet or just call me Ted.
 
 I'm passionate about building AI solutions using machine learning (ML), deep learning (DL) and large language models (LLMs) along with a focus on MLOps for scalable deployment.
