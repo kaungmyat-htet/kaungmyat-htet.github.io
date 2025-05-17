@@ -5,12 +5,14 @@
 layout: single
 author_profile: true
 toc: true
-toc_label: "Contents"
+toc_label: "On this page"
 toc_sticky: true
 toc_icon: "file-lines"
 ---
 
-Hello! My name is Kaung Myat Htet or you can call me Ted.
+# About Me
+
+Hello! This is Kaung Myat Htet or just call me Ted.
 
 I'm passionate about building AI solutions using machine learning (ML), deep learning (DL) and large language models (LLMs) along with a focus on MLOps for scalable deployment.
 
