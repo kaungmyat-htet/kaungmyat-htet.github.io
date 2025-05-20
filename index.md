@@ -34,10 +34,13 @@ Jan 2022 – Apr 2025
 ### AI Researcher  
 **Baksters Co.** · _Intern_  
 June 2023 – Apr 2025 · 1 year 11 months  
-- Developed demo chatbots using Large Language Models (LLMs) with LangChain, LangGraph, Ollama, and Gradio, integrating Tesseract OCR for document text extraction.
-- Implemented Retrieval-Augmented Generation (RAG), AI agents, and semantic search with LLMs such as OpenAI, Gemini, and Llama.
-- Built a Knowledge Discovery Learning (KDL) web application and Line OA messaging system using the Line Messaging API, Python, and Django.
-- Leveraged knowledge in LLMs, LangChain, LangGraph, and Ollama to enhance AI-driven applications.
+- Researched and developed a personalized recommendation system for a novel-reading platform by constructing user profiles from reading behavior and analyzing preferences.
+- Built a semantic search system using vector embeddings for contextual similarity search, replacing traditional keyword matching to improve content discovery.
+- Integrated and experimented with vector databases including ChromaDB, FAISS, and Elasticsearch to support efficient retrieval and ranking of content in content discoveries and RAG pipelines.
+- Developed chatbots using LLMs with LangChain, LangGraph, Ollama, and Gradio, integrating Tesseract OCR for document parsing.
+- Implemented Retrieval-Augmented Generation (RAG), semantic search, and AI agents using models such as OpenAI, Gemini, and Llama.
+- Designed and deployed a Knowledge Discovery Learning (KDL) web application and Line OA messaging system using Python, Django, and the Line Messaging API.
+- Leveraged knowledge in LangChain, LangGraph, Ollama, AWS EC2, and vector databases.
 
 ### Junior Research Assistant  
 **Intelligent System Research Lab (ISL)**  
@@ -93,3 +96,7 @@ _Feb 2025_
 _Oct 2024_  
 #### [Introduction to Generative AI with AWS](https://www.udacity.com/certificate/e/4032c2a6-eb9d-11ee-8e31-33a557deb694), Udacity
 _Mar 2024_
+#### [Java Programming: Arrays, Lists, and Structured Data](https://coursera.org/share/d771bd4ccf72798273fc20f422afba2c), Coursera
+_Apr 2022_
+#### [Getting Started with Go](https://coursera.org/share/e81a1b2528c4857fb9f1ad00fd3cab1c), Coursera
+_Feb 2022_
