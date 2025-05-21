@@ -73,7 +73,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fa fa-envelope"
       url: "mailto:kaungmyathtet.dev@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
