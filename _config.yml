@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Kaung Myat Htet
+title: Kaung Myat (Ted) Htet
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal website of Kaung Myat (Ted) Htet – writing about AI, machine learning, and data science. Insights, tutorials, and thoughts on modern ML.
 twitter_username: username
 github_username: kaungmyat-htet
 minimal_mistakes_skin: dark
@@ -62,12 +60,9 @@ author:
   avatar : "/assets/images/my-photo.png"
   bio    : "AI Research Engineer"
   links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:kaungmyathtet.dev@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kaungmyat-htet"
@@ -77,15 +72,15 @@ author:
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:kaungmyathtet.dev@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kaungmyat-htet"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/kaung-myat-htet-4a60b6258/"
 
 defaults:
   # _posts
