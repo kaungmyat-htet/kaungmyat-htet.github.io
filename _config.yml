@@ -61,7 +61,7 @@ author:
   bio    : "AI Research Engineer"
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fab fa-fw fa-envelope-o"
       url: "mailto:kaungmyathtet.dev@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
